@@ -1,1 +1,1 @@
-# Project_os2
+project about Java Threads — Sleeping Barber Problem
